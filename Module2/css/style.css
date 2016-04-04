@@ -18,7 +18,7 @@ h2{
   height: 100%;
   margin:auto;
   margin-top: 25px;
-  padding: 5px;
+  padding: 0px;
   font-family: Helvetica;
  
 }
@@ -49,6 +49,7 @@ h2{
 
 .descript{
 	clear:right;
+	padding: 5px;
 }
 p{
 	text-align: center;
